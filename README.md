@@ -8,4 +8,4 @@
 
 动画部分截图：
 
-*[http://kingarthas37.github.io/demos/demo-3dsmax/animation/render-images/2.jpg](http://kingarthas37.github.io/demos/demo-3dsmax/animation/render-images/2.jpg)
+*![http://kingarthas37.github.io/demos/demo-3dsmax/animation/render-images/2.jpg](http://kingarthas37.github.io/demos/demo-3dsmax/animation/render-images/2.jpg)
